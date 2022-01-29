@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Aurora
-- 👀 I’m looking for opportunity of Front End Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+### 👋 Hi, I’m Aurora
+- 👀 looking for opportunity of Front End Developer
+- 🌱 Proficient in React, Javascript, Html/Css, Bootstrap,   
+- :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
 
 <!---
