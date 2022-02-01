@@ -4,7 +4,7 @@
 - :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
 
-### Programming Language and tools
+### Programming Languages and tools
 <a href='https://reactjs.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>&nbsp;
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>&nbsp;
 <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>&nbsp;
