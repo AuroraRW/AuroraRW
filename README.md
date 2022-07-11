@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aurora
-- 👀 looking for opportunity of Front End Developer
-- 🌱 Proficient in React, Javascript, Html/Css, Bootstrap  
+- 👀 looking for opportunity of Developer
+- 🌱 Proficient in React, Javascript, Html/Css, Bootstrap and Data Analysis/ Machine Learning 
 - :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
 
