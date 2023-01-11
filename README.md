@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Aurora
-- 👀 looking for opportunity of Developer
+- 👀 Full Stack Developer
 - 🌱 Proficient in React, Javascript, Html/Css, Bootstrap and Data Analysis/ Machine Learning 
 - :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
