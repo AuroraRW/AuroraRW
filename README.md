@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aurora
 - 👀 Full Stack Developer
-- 🌱 Proficient in React, Javascript, Html/Css, Bootstrap and Data Analysis/ Machine Learning 
+- 🌱 Proficient in Full Stack Development: React, JQuery, Bootstrap, ExpressJS, ASP.NET
 - :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
 
@@ -14,6 +14,7 @@
 <a href='https://nodejs.org/en/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>&nbsp;
 <a href='https://expressjs.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'></a>&nbsp;
 <a href='https://www.mysql.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'></a>&nbsp;
+<a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20is%20an%20object%2Doriented,create%20and%20use%20software%20components.'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'></a>&nbsp;
 <a href='https://firebase.google.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'></a>&nbsp;
 <a href='https://git-scm.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>&nbsp;
 <a href='https://www.figma.com'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'></a>&nbsp;
