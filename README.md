@@ -16,7 +16,6 @@
 <a href='https://firebase.google.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'></a>&nbsp;
 <a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20is%20an%20object%2Doriented,create%20and%20use%20software%20components.'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'></a>&nbsp;
 <a href='https://visualstudio.microsoft.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg'></a>&nbsp;
-<a href='https://dotnet.microsoft.com/en-us/apps/aspnet'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg'></a>&nbsp;
 <a href='https://www.mysql.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'></a>&nbsp;
 <a href='https://www.microsoft.com/en-ca/sql-server/sql-server-downloads'><img width='25px' height='25px' src='http://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg'></a>&nbsp;
 <a href='https://www.python.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></a>&nbsp;
