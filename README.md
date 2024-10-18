@@ -12,17 +12,18 @@
 <a href='https://getbootstrap.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'></a>&nbsp;
 <a href='https://nodejs.org/en/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>&nbsp;
 <a href='https://expressjs.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'></a>&nbsp;
-<a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'></a>&nbsp;
+<a href='https://www.mongodb.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'></a>&nbsp;
 <a href='https://firebase.google.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'></a>&nbsp;
 <a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20is%20an%20object%2Doriented,create%20and%20use%20software%20components.'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'></a>&nbsp;
+<a href='https://dotnet.microsoft.com/en-us/apps/aspnet'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg'></a>&nbsp;
 <a href='https://www.mysql.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'></a>&nbsp;
-<a href='https://www.mysql.com/'><img width='25px' height='25px' src='http://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg'></a>&nbsp;
+<a href='https://www.microsoft.com/en-ca/sql-server/sql-server-downloads'><img width='25px' height='25px' src='http://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg'></a>&nbsp;
 <a href='https://www.python.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></a>&nbsp;
 <a href='https://git-scm.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>&nbsp;
 <a href='https://www.figma.com'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'></a>&nbsp;
 <a href='https://www.gimp.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg'></a>&nbsp;
 <a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a>&nbsp;
-<a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'></a>&nbsp;
+<a href='https://developer.android.com/?gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3ko6TG3tiRoHFRP96PKAcV4B7LCXqZSVey0dMNu6smC6_6bOu-5cZ7hoCs7oQAvD_BwE&gclsrc=aw.ds'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
