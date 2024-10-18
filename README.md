@@ -20,6 +20,7 @@
 <a href='https://www.figma.com'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'></a>&nbsp;
 <a href='https://www.gimp.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg'></a>&nbsp;
 <a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a>&nbsp;
+<a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
