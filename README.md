@@ -25,6 +25,7 @@
 <a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a>&nbsp;
 <a href='https://developer.android.com/?gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3ko6TG3tiRoHFRP96PKAcV4B7LCXqZSVey0dMNu6smC6_6bOu-5cZ7hoCs7oQAvD_BwE&gclsrc=aw.ds'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'></a>&nbsp;
 <a href='https://kotlinlang.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'></a>&nbsp;
+<a href='https://developer.android.com/compose'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg'></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
