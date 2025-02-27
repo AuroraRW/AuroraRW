@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aurora
-- 👀 Full Stack Developer
-- 🌱 Proficient in Full Stack Development: React, JQuery, Bootstrap, ExpressJS, ASP.NET
+- 👀 Full Stack Developer / Mobile Developer
+- 🌱 Proficient in Full Stack Development: React, JQuery, Bootstrap, ExpressJS, ASP.NET and Android Mobile Development: Kotlin, Jetpack Compose
 - :computer: Love coding and pasionate lifelong leaner
 - 📫 How to reach me aurorawangca@gmail.com
 
@@ -24,6 +24,7 @@
 <a href='https://www.gimp.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg'></a>&nbsp;
 <a href='https://code.visualstudio.com/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a>&nbsp;
 <a href='https://developer.android.com/?gad_source=1&gclid=CjwKCAjw68K4BhAuEiwAylp3ko6TG3tiRoHFRP96PKAcV4B7LCXqZSVey0dMNu6smC6_6bOu-5cZ7hoCs7oQAvD_BwE&gclsrc=aw.ds'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'></a>&nbsp;
+<a href='https://kotlinlang.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
