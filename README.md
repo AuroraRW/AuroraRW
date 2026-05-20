@@ -30,6 +30,9 @@
 <a href="https://aws.amazon.com/"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></a>&nbsp;
 <a href="https://www.jenkins.io/"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></a>&nbsp;
 <a href="https://www.unrealengine.com/"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"></a>&nbsp;
+<a href="https://claude.ai"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Large_language_model"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Intelligent_agent"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/automation.svg"></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
