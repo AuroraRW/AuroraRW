@@ -27,7 +27,7 @@
 <a href='https://kotlinlang.org/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'></a>&nbsp;
 <a href='https://developer.android.com/compose'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg'></a>&nbsp;
 <a href="https://azure.microsoft.com/en-us/"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></a>&nbsp;
-<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></a>&nbsp;
+<a href="https://aws.amazon.com/"><img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></a>&nbsp;
 ### Connect with me
 <a href='https://www.linkedin.com/in/aurorawangca/'><img width='25px' height='25px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a> 
 <!---
